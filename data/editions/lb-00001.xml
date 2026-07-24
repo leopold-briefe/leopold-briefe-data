@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa und Jitka Močičková (unter Mitwirkung von Jiří Hrbek)</resp>
+                <persName n="Jitka Močičková" key="https://d-nb.info/gnd/1353070174">
+                    <surname>Močičková</surname>
+                    <forename>Jitka</forename>
+                </persName>
+                <persName n="Jiří Hrbek">
+                    <surname>Hrbek</surname>
+                    <forename>Jiří</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -23,7 +34,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>
-                            <repository/>
+                            <repository n="ANM">Archiv Národního muzea</repository>
                             <collection>Šternberk-Manderscheid</collection>
                             <idno>K. 197</idno>
                         </msIdentifier>
@@ -57,7 +68,7 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="metadaten-status"/>
         <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
